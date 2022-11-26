@@ -8,6 +8,9 @@ WeRateDogs Twitter archive data downloaded directly and its type is csv, image_p
 tsv file containing the tweet image prediction and downloaded by using requests library, lastly
 tweet_json.txt which is a json text file has additional data of tweets and obtained via the twitter
 API by using Tweepy library.
+All files starting by twitter_archive_enhanced.csv can be found [here](https://video.udacity-data.com/topher/2018/November/5bf60c1e_twitter-archive-enhanced-2/twitter-archive-enhanced-2.csv)
+image_predictions.tsv can be found [here](https://video.udacity-data.com/topher/2018/November/5bf60c69_image-predictions-3/image-predictions-3.tsv)
+and tweet_json.txt [here](https://video.udacity-data.com/topher/2018/November/5bf60cc8_tweet-json/tweet-json)
 
 ## Summary of Findings and Insights
 
